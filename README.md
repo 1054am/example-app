@@ -1,4 +1,4 @@
 example-app
 ===========
 
-Modified version of infinite juke 
+The following is a modified version of the infinite jukebox (infinitejuke.com).
